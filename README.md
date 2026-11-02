@@ -1,7 +1,7 @@
 # SHUNNE SANDOVAL | DIGITAL PORTFOLIO
 
 > Graphic Designer. UI/UX Designer. Level Designer.
-> PORTFOLIO ADDRESS: https://shunne24th.github.io/sandoval-design-portfolio/
+> PORTFOLIO ADDRESS: https://shunne24th.github.io/portfolio/
 
 A minimalist digital portfolio made to showcase multimedia design, interactive layouts, and game development projects. Built with static HTML, Vanilla JavaScript, and Tailwind CSS v4.
 
